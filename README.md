@@ -1,2 +1,2 @@
 # plate_detection_recognization
-plate detection recognization
+plate detection and recognition
